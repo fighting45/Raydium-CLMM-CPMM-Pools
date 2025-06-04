@@ -68,10 +68,6 @@ Replace `path/to/script.ts` with the actual path to the script you intend to run
 * [Raydium CLMM](https://github.com/raydium-io/raydium-clmm)
 * [Raydium Documentation](https://docs.raydium.io/raydium/protocol/developers)
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.([github.com][6])
-
 ---
 
 *Note: This repository is intended for educational and development purposes. Use at your own risk.*
